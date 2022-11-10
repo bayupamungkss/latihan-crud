@@ -35,6 +35,7 @@
         <?php } ?>
         </table>
         <center><?php echo anchor('kampus/tambah','<input type=button value=\'Tambah Data\'>'); ?></center>
+        <center><?php echo anchor('Login/logout','<input type=button value=\'Logout\'>'); ?></center>
         </body>
         </html> 
         
